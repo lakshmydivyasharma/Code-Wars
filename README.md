@@ -1,1 +1,1 @@
-This is where my code war level 8 solutions are 
+This is where my code war level 6, 7, and 8 solutions are 
